@@ -1,0 +1,3 @@
+#!/bin/sh
+
+BUNDLE_GEMFILE=Gemfile.rails4 bundle install
