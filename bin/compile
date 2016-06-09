@@ -1,3 +1,3 @@
 #!/bin/sh
 
-BUNDLE_GEMFILE=Gemfile.rails4 bundle install
+BUNDLE_GEMFILE=$1/Gemfile.rails4 bundle install
